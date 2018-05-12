@@ -1,9 +1,13 @@
 _repo: Under-Sentence-of-Death-Or-a-Criminal-s-Last-Hours_50010
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Campbell, Gilbert
     gutenberg_agent_id: '45654'
     url: http://www.gutenberg.org/2009/agents/45654
+covers:
+- cover_type: archival
+  image_path: 50010-h/images/cover.jpg
 creator:
   author:
     agent_name: Hugo, Victor
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/85
     wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
 description: '"Together with Told Under Canvas and Claude Gueux"'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50010#Under-Sentence-of-Death-Or-a-Criminal-s-Last-Hours
 gutenberg_issued: '2015-09-19'
 gutenberg_type: Text
 identifiers:
