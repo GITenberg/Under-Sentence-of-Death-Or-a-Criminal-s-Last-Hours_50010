@@ -28,6 +28,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Under Sentence of Death
 
   Or, a Criminal''s Last Hours'
